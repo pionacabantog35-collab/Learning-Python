@@ -74,3 +74,22 @@ In addition to python 2 and python 3 there is more than one version of each.
 
 **Cpython** - one of a possible number solutions to the most painful of python traits - lack efficiency. Large and complex mathematical calculations may be easily coded in python but resulting code execution may be extremely time consuming.
 
+**Jython** - j is for java. Imagine a python written in Java instead C. This is useful for example, if you develop large anc complex systems written entirely in java and want to add some python flexibility to them.
+
+**PyPy** - logo is a rebus. It represents a python environment written in python.
+
+**Micropython** - an efficient open source software implementation of python 3 that is optimixed run on microcontrollers.
+
+Function may have an effect and result.
+
+Python functions strongly demand the presence of a pair of **parentheses**.
+
+FUNCTION INVOCATION
+CAlling a function strongly so  python can execute it.
+<img width="182" height="37" alt="image" src="https://github.com/user-attachments/assets/b18ff755-0e13-43d5-b795-cd7eee92b54c" />
+
+- print = function name
+- ("Hello, World!") parentheses + argument
+- print("Hello, World!)function invocation.
+
+
