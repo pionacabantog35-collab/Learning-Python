@@ -86,10 +86,78 @@ Python functions strongly demand the presence of a pair of **parentheses**.
 
 FUNCTION INVOCATION
 CAlling a function strongly so  python can execute it.
+
 <img width="182" height="37" alt="image" src="https://github.com/user-attachments/assets/b18ff755-0e13-43d5-b795-cd7eee92b54c" />
 
 - print = function name
 - ("Hello, World!") parentheses + argument
 - print("Hello, World!)function invocation.
+
+What happens when python sees function_name(argument)?
+
+1. Python finds the function
+
+If checks whether function_name actually exist
+
+print("Hello")
+
+Python knows print, so it can continue.
+
+After the function finishes, Python foes back to the line after the function invocation and continues running the rest of the program.
+
+EASY WAY TO TEMEMBER:
+
+CALL > CHECK > ENTER > EXECUTE > RETURN
+
+**INSTRUCTIONS**
+
+An instruction is basically a command that tells Python to do something.
+
+Example:
+
+print("The itsy bitsy climed up the watersprout.")
+
+print("Down came the rain and washed the spider out.")
+
+There are two instructions there.
+
+IMPORTANT PYTHON RULE
+
+Normally, **one line = one insruction**
+
+\n = new line
+
+Example
+
+code:
+
+print("Hello\nWorld")
+
+Output:
+
+Hello
+World
+
+\ is special
+Backlash is called an **escape character**
+
+\n= newline
+
+\\= backlash
+
+\"= double quotation mark
+
+\'= single quotation mark
+
+\t= tab
+
+**Python escape and new line**
+
+<img width="483" height="373" alt="image" src="https://github.com/user-attachments/assets/33926331-5168-476a-bc70-1d77d748b4a8" />
+
+
+**USING MULTIPLE ARGUMENTS**
+
+about how print() works when you give it more than one argument.
 
 
