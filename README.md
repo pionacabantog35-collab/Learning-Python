@@ -32,12 +32,12 @@ COMPILATION VS INERPRETATION
 
 **Semantically** - the program has to make sense
 
-** Two different ways of transforming a program from a high level programming language into machine learning.
+**Two different ways of transforming a program from a high level programming language into machine learning.
 **
 
 **Compilation** - the resource origram is tanslated once(however, this act must be repeated each time you modify the source code) by getting file (example an exe file) containing the machine code now you can distribute the file worldwide; the program that performs this translation is called compiler or translator.
 
-**Interpretation ** - you can translate the source program each time it has to be run.The program performing this kind of transformation is called an interpreter, as it interprets the code every time it is intended to be executed
+**Interpretation** - you can translate the source program each time it has to be run.The program performing this kind of transformation is called an interpreter, as it interprets the code every time it is intended to be executed
 
 **WHAT IS PYTHON?**
 
@@ -72,5 +72,5 @@ Python 3 is the newer version of the language.
 
 In addition to python 2 and python 3 there is more than one version of each.
 
-**Cpython ** - one of a possible number solutions to the most painful of python traits - lack efficiency. Large and complex mathematical calculations may be easily coded in python but resulting code execution may be extremely time consuming.
+**Cpython** - one of a possible number solutions to the most painful of python traits - lack efficiency. Large and complex mathematical calculations may be easily coded in python but resulting code execution may be extremely time consuming.
 
