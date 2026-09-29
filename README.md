@@ -1,4 +1,4 @@
-# Learning-Python
+<img width="617" height="346" alt="image" src="https://github.com/user-attachments/assets/2dd645d5-b5dd-475d-966a-91495047fd95" /># Learning-Python
 
 Python Language makes a computer usable.
 
@@ -159,5 +159,80 @@ Backlash is called an **escape character**
 **USING MULTIPLE ARGUMENTS**
 
 about how print() works when you give it more than one argument.
+
+Here, there is one print() function, but it has three arguments:
+
+1. "The itsy bitsy spider"
+
+2. "climbed up"
+
+3. "the watersprout"
+
+The arguments are seperated by **commas**.
+
+<img width="617" height="346" alt="image" src="https://github.com/user-attachments/assets/cb5219a1-d03b-4b22-a17c-7d08785e1755" />
+
+**POSITIONAL ARGUMENTS**
+
+Example:
+
+<img width="202" height="33" alt="image" src="https://github.com/user-attachments/assets/1f2f5086-7819-4ca6-97fb-117ff6889724" />
+
+There are two arguments:
+"My name is" → first argument
+"Python." → second argument
+
+Python prints them in the same order:
+
+<img width="332" height="347" alt="image" src="https://github.com/user-attachments/assets/0d7bcbfb-05f0-40ea-9a8e-4aaa599a7334" />
+
+
+**KEYWORD**
+
+<img width="537" height="315" alt="image" src="https://github.com/user-attachments/assets/18106a91-f03b-4723-8c09-806c69669525" />
+
+**sep**
+<img width="777" height="285" alt="image" src="https://github.com/user-attachments/assets/17e7cef6-5e99-4059-b226-1f240eaf0ee9" />
+
+<img width="815" height="316" alt="image" src="https://github.com/user-attachments/assets/2be6a794-190d-44d3-a1d0-569ad04a16c6" />
+
+**Literals**
+
+data whose values are determined by the literal iself
+
+Example:
+python
+print(123)> Python knows exactly what 123 means: 123 There is no guessing involved. 123 represents the number 123 that's why 123 is literal.
+
+What about c?
+
+c could be
+- a variable
+
+-a name
+
+Python cannot treat c as a specific value just from the letter itself.
+
+c is not a literal in this context
+
+Example:
+
+c=123
+print(c)
+
+- 123 > literal
+
+- c > variable/name
+
+-print(c) > python looks at what value c currently refers to.
+
+<img width="477" height="166" alt="image" src="https://github.com/user-attachments/assets/0e8c95de-5a03-4052-a6f1-5812536125cd" />
+
+
+
+
+
+
+
 
 
