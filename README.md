@@ -32,8 +32,8 @@ COMPILATION VS INERPRETATION
 
 **Semantically** - the program has to make sense
 
-**Two different ways of transforming a program from a high level programming language into machine learning.
-**
+Two different ways of transforming a program from a high level programming language into machine learning.
+
 
 **Compilation** - the resource origram is tanslated once(however, this act must be repeated each time you modify the source code) by getting file (example an exe file) containing the machine code now you can distribute the file worldwide; the program that performs this translation is called compiler or translator.
 
