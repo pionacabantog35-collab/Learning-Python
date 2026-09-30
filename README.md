@@ -1,4 +1,4 @@
-<img width="617" height="346" alt="image" src="https://github.com/user-attachments/assets/2dd645d5-b5dd-475d-966a-91495047fd95" /># Learning-Python
+ Learning-Python
 
 Python Language makes a computer usable.
 
