@@ -373,9 +373,103 @@ Symbol of the programming language which is able on the values.
 
 **
 
-Exponentiation
+Exponentiation    Output      Type
+  
+print(2 ** 3)       8          int
 
-print(2 ** 3)
-print(2 ** 3.)
-print(2. ** 3)
-print(2. ** 3.)
+print(2 ** 3.)     8.0         float
+
+print(2. ** 3)     8.0         float
+
+print(2. ** 3.)    8.0         float
+
+Both operators are integers > integer results
+
+Atleast one operand is a float > float results
+
+**MULTIPLICATION**
+
+* is used for multiplication
+
+print(2 * 3) output 2 x 6
+
+**DIVISION**
+
+A slash sign is a division operator (/)
+
+print(6 / 3) is 2.0
+
+/ = always produce a float
+
+Expression     Result    Type
+6 / 3           2.0     float
+6 / 3.          2.0     float
+6./ 3           2.0     float
+6./.3           2.0     float
+
+
+Integer Division //
+
+// = called integer division
+
+It removes the fractional part by rounding down to the lesser integer.
+
+print(6//3)      2
+print(6//3.)     2.0
+print(6.//3)     2.0
+print(6.//6.)    2.0
+
+rule            normal div     Floor Div
+print(6//4)     6 / 4 = 1.5    6 // 4 = 1
+
+
+Why? bec 1 is the largest integer what is less than or equal to 1.5.
+
+
+Operators and their priorities
+
+When an expression contains more than one operator python needs to know chich operation to perform first.
+
+print(2 + 3 * 5)
+
+Wrong             Correct      
+2 + 3 = 5        3 * 5 = 15
+5 * 5 = **25 **      2 + 15 = **17**
+
+Operator priority multiplication hsa higher priority than addition
+
+Higher - Priority list
+
+1. ** - exponent
+
+2. *, /, //, % - multiplication and division
+
+3. +, - -addition/subraction
+
+Operators and their binding
+
+Sometimes operators have the same priority
+
+example:
+
+9% 6% 2%
+
+So python needs another rule to decide which one comes first, binding / asscociativity.
+
+Left sided binding(left to right)
+
+print(9% 6% 2%)
+
+python does: 9 % 6 = 3 then: 3 % 2 = 1
+therefore: 1
+
+Exponentiation is different
+
+right sided binding
+
+<img width="382" height="170" alt="image" src="https://github.com/user-attachments/assets/b85a076c-b64a-4801-99b1-678d2db3c879" />
+
+2 ** 3 = 8
+
+2 ** 8 = 256
+
