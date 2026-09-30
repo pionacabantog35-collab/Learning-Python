@@ -473,3 +473,67 @@ right sided binding
 
 2 ** 8 = 256
 
+**List of Priorities**
+
+1     **
+
+2     unary, +, -
+
+3     *,/,//%
+
+4     binary +, -
+
+
+Example
+
+2 * % 5 both * and % have the same priority python evaluates from left to right.
+
+
+1st 2 * 3 = 6
+
+2nd 6 % 5 = 1
+
+
+**Python Variable**
+
+Think of a variable as a box where you can sore information
+
+age = 21
+
+-age > variable name
+-21 > value
+-= > assigns the value to the variable
+
+<img width="412" height="165" alt="image" src="https://github.com/user-attachments/assets/4eaf7f27-5a88-4849-a353-07d39984125f" />
+
+**Variable naming rules**
+
+-letters : A-Z or a-z
+
+-numbers : 0-9
+
+-underscore : _
+
+Examples:
+
+student1 = "Piona"
+
+student_name = "Piona
+
+studentAge = 21
+
+Rule 1: dont start with a number
+
+Wrong: 10t =50
+
+Correct t50 = 20
+
+Rule 2: case sensitive
+
+age = 21
+Age = 25
+
+Rule 3: spaces are not allowed
+
+
+
