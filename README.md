@@ -229,12 +229,153 @@ print(c)
 <img width="477" height="166" alt="image" src="https://github.com/user-attachments/assets/0e8c95de-5a03-4052-a6f1-5812536125cd" />
 
 
+"2" > string literal, bec it has quotation marks, python treats it as text.
+
+print("2" + "2")
+
+output 22
+
+2 integer literal 
+
+2 no quotation marks > python treats it as number
+
+For example
+
+print(2 + 2)
+
+output
+
+4
+
+**Integer (int)**
+
+whole number with no decimal/fractional part
+
+-10
+
+-0
+
+-100
+
+**Float(float)**
+
+A number that can have decimal/fractional part.
+
+-10.5
+-3.14
+
+Type tells python what kind of data something is.
+
+example
+
+10 > integer
+10.5 > float
 
 
+you can check the type using 
+
+code
+
+print(type(10))
+
+print(type(10.5))
+
+output 
+
+<class "int">
+
+<class "float">
 
 
+**Float **
+
+number that has decimal point or can be represented using scientific rotation.
+
+example:
+
+2.5
+
+0.4
+
+10.75
+
+**String **
+
+examples:
+
+"Hello"
+
+"Python"
+
+"Arellano"
+
+**Strings** need quotation marks
+
+print("Hello")
+
+string = text > put it inside quotes.
 
 
+**What if the string itself contains qoutes.**
+
+solution 1 use escape 
+
+<img width="818" height="308" alt="image" src="https://github.com/user-attachments/assets/385debb9-c883-4683-ac6b-0fe56f61ff5d" />
+
+solution 2 python allows strings to be surrounded by "'"
+
+<img width="735" height="317" alt="image" src="https://github.com/user-attachments/assets/e6f865e3-6a3a-4724-9f40-ce918714a0d5" />
 
 
+**Boolean**
 
+True > Yes/Correct
+
+Flase > No/Incorrect
+
+Example:
+
+<img width="455" height="227" alt="image" src="https://github.com/user-attachments/assets/ace0f961-05ce-4bc4-8459-d964ef5edb7b" />
+
+Because 10 is really greater than 5.
+
+True or FAlse are case-sensitive
+
+Wrong:
+
+print(True)
+
+print(False)
+
+Correct:
+
+print(true)
+
+print(false)
+
+**OPERATORS - DATA MANIPULATION**
+
+Basic operators
+
+Symbol of the programming language which is able on the values.
+
++ 
+
+-
+
+*
+
+/
+
+//
+
+%
+
+**
+
+Exponentiation
+
+print(2 ** 3)
+print(2 ** 3.)
+print(2. ** 3)
+print(2. ** 3.)
