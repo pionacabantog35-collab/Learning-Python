@@ -535,5 +535,88 @@ Age = 25
 
 Rule 3: spaces are not allowed
 
+student name = 21
 
+Rule 4: Dont use keyowrds
+
+- if
+
+- else
+
+- for
+
+- while
+
+- class
+
+- reurn
+
+- true
+
+- false
+
+
+Basic Syntax
+
+variable_name = value
+
+for example
+
+name = "piona"
+
+age = 21
+
+price = 99.50
+
+sample
+
+var = 1
+
+account_balance = 1000
+
+client_name ="John Doe"
+
+print(var, account_balance, client_name)
+
+print(var)
+
+output 
+
+1 1000 John Doe
+
+1
+
+var = "3.8.5"
+
+print=("Python version: " + var)
+
+output
+
+Python version: 3.8.5
+
+ASsigning a new value to a variable if a variable already exist, you can give it a new value using the assignment operator =.
+
+Example                  Output
+
+var = 1                    1
+
+print(var)
+
+
+var = 5                    5
+
+print(var)
+
+example                   
+           
+var = 1                    2(This is called **Incrementing**)
+ 
+var = var + 1
+
+print(var)
+
+
+= means assignment
+
+== comparison
 
