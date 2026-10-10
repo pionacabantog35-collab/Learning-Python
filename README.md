@@ -620,3 +620,59 @@ print(var)
 
 == comparison
 
+<img width="625" height="326" alt="image" src="https://github.com/user-attachments/assets/d9346478-ca3d-4f7b-9907-b650d5bca7fe" />
+
+example    The basic pattern
+ 
+x = x*2    variable = variable OP expression
+x* = 2     variable OP = expression
+
+1. += addition
+
+long
+
+sheep = sheep + 1
+
+short 
+
+sheep += 1
+
+<img width="451" height="175" alt="image" src="https://github.com/user-attachments/assets/30f3d43a-1ead-43eb-be56-906f64acbe87" />
+
+2. -= subtraction
+
+long 
+
+x = x - 3
+
+short
+
+x -=3
+
+<img width="457" height="220" alt="image" src="https://github.com/user-attachments/assets/b39ace09-4a3d-4a72-997c-918cce92cbf8" />
+
+3.*= multiplication
+
+long
+
+x = x* 2
+
+short
+
+x * = 2
+
+<img width="501" height="276" alt="image" src="https://github.com/user-attachments/assets/d0d69351-e2df-48f5-b9e4-99c71a7592ad" />
+
+4. /= Division
+long
+
+var = var/2
+
+short
+
+var /= 2
+
+
+
+
+
